@@ -13,6 +13,6 @@ Reduce duplication of code
 Easy onboarding of new applications, projects or teams
 One place to fix issues with the shared or common code
 Code Maintainence
-Reduce the risk of errors
+Reduce the risk of errors.
 
 ![shared_library](https://github.com/user-attachments/assets/3b12e4bf-92db-408b-a479-b708ff68d7f7)
